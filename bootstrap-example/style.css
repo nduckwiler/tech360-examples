@@ -1,0 +1,41 @@
+.nick-custom {
+  color: black;
+  background-color: hotpink;
+  outline: dashed 2px grey;
+  font-weight: bold;
+}
+
+.red {
+  background-color: red;
+}
+
+#rounded {
+  border-radius: 25%;
+  height: 50px;
+}
+
+button#very {
+  border-radius: 75%;
+}
+
+div.white-text {
+  color:blue;
+  /* background-color:blue; */
+  background-image: url("https://repl.it/@nduckwiler/bootstrap-example#IMG_0076.JPG");
+  background-size: cover;
+}
+
+div#something {
+
+}
+button#very:hover {
+  color: white
+}
+
+#clickable {
+  background-color: green;
+}
+
+#clickable:hover {
+  background-color: pink;
+}
