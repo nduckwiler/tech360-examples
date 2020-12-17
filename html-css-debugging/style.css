@@ -1,0 +1,8 @@
+h1 {
+  background-image: linear-gradient(to right, lightpink , yellow);
+}
+
+/* Class selector? */
+italicized {
+  font-style: italic;
+}
